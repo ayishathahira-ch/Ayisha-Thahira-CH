@@ -7,3 +7,5 @@
 - 🚀 Leading projects in Resume Parsing, GANs, GCN-based Intrusion Detection & more
 - 🛠️ Tech Stack: Python, TensorFlow, PyTorch, OpenCV, spaCy, Hugging Face, Django, Docker
 - 📚 Published in IEEE, ICETEST
+- 📫 Reach me ->https://linkedin.com/in/ayishathahira-c-h-b943a132b
+
